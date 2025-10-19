@@ -1,0 +1,8 @@
+[package]
+name = "RFN"
+version = "0.1.0"
+edition = "2024"
+build = "build.rs"
+rust-version = "1.90.0"  #  the lastest statble when the project built
+
+[dependencies]
